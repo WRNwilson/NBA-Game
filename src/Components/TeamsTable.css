@@ -1,0 +1,23 @@
+.teams-table .header {
+    background-color: #074684;
+    color: white;
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+}
+
+.team-item {
+    margin: 2rem 0;
+    padding: 20px 20px;
+    display: flex;
+    align-items: center;
+    border-radius: 8px;
+    margin: 5px 0;
+    background-color: #F8FBFD;
+}
+
+.team-item:hover {
+    cursor: pointer;
+    background-color: #dfdfdf;
+}

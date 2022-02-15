@@ -1,0 +1,15 @@
+.search-bar {
+    margin: 30px 0;
+}
+
+.search-bar form {
+    display: flex;
+}
+
+.search-bar input {
+    font-size: 16px;
+    padding: 0.5em 1em;
+    width: 300px;
+    border-color: rgb(45, 67, 192);
+    border-radius: 8px;
+}

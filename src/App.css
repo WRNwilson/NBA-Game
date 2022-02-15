@@ -1,0 +1,10 @@
+.App {
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+
+h1 {
+    font-weight: 900;
+    color: rgb(45, 67, 192);
+}
